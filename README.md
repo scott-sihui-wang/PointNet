@@ -28,8 +28,8 @@ Here are some sample results of `PointNet`'s 3D segmentation for airplanes and c
 
 Airplanes:
 
-![Airplane](/demo/airplane.png)
+![Airplane](/demo/seg_airplane.png)
 
 Chairs:
 
-![Chair](/demo/chair.png)
+![Chair](/demo/seg_chair.png)
