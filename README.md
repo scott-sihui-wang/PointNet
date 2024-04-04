@@ -18,4 +18,8 @@ The models are trained and hosted on `Colab`:
 
 - _Segmentation_ Network for Airplanes _without_ Feature Transformation: [Code](https://drive.google.com/drive/folders/1YmJwO0HiscNH3bqEwQY2NczjF9adqTrH?usp=sharing), [Notebook](https://colab.research.google.com/drive/1lqwNBY_ZfGeEQYNwWVRxiv-675k0L98C?usp=sharing)
 
+**Topics:** _Computer Vision_, _PointNet_, _3D Classification and Segmentation_
+
+**Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Jupyter Lab_, _Colab_
+
 ## 2. Demo
