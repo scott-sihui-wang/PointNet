@@ -23,3 +23,13 @@ The models are trained and hosted on `Colab`:
 **Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Jupyter Lab_, _Colab_
 
 ## 2. Demo
+
+Here are some sample results of `PointNet`'s 3D segmentation for airplanes and chairs:
+
+Airplanes:
+
+![Airplane](/demo/airplane.png)
+
+Chairs:
+
+![Chair](/demo/chair.png)
