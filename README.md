@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-In this project, I re-implemented `PointNet` and tested its classification and segmentation performance. Please refer to my [report]() to see full details, i.e., technical discussions, how to run the code, qualitative and quantitative results.
+In this project, I re-implemented `PointNet` and tested its classification and segmentation performance. Please refer to my [report](report.pdf) to see full details, i.e., technical discussions, how to run the code, qualitative and quantitative results.
 
 The models are trained and hosted on `Colab`:
 
